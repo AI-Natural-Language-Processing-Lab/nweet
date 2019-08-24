@@ -30,6 +30,7 @@ Social Network Service
   > Delete nweet <br>
   > Follow / Unfollow <br>
   > Image upload <br>
+  > Hashtag
   > Search 
   
  * Profile Update Page
