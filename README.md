@@ -4,7 +4,7 @@ This project was designed and developed by `Neok`.
 ### `Screenshot`
 
 <img src="https://user-images.githubusercontent.com/35194760/63637136-d8c8e180-c6b3-11e9-8754-4585660fe14a.png" />
-<img src="https://user-images.githubusercontent.com/35194760/63637139-ec744800-c6b3-11e9-821e-ecbfb08de44f.png" />
+<img src="https://user-images.githubusercontent.com/35194760/63637197-cd29ea80-c6b4-11e9-9e7b-7653bbab5c2b.png" />
 
 
 ### `Stack`
