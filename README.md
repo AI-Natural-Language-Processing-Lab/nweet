@@ -17,19 +17,19 @@ Node.js, Express, Pug, Passport, MySQL
 Social Network Service
 
 * Login page
-  > Local login
-  > KakaoTalk login
+  > Local login <br>
+  > KakaoTalk login 
   
 * Join Page
   > Profile image upload
   
 * Main Page
-  > Trend
-  > Timeline
-  > Create nweet
-  > Delete nweet
-  > Follow / Unfollow
-  > Image upload
-  > Search
+  > Trend <br>
+  > Timeline <br>
+  > Create nweet <br>
+  > Delete nweet <br>
+  > Follow / Unfollow <br>
+  > Image upload <br>
+  > Search 
   
  * Profile Update Page
