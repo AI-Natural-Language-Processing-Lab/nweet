@@ -1,4 +1,4 @@
-# N-weet
+# weet
 This project was designed and developed by `Neok`. 
 
 ### `Screenshot`
